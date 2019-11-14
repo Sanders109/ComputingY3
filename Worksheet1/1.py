@@ -1,4 +1,4 @@
-
+import numpy as np
 number = 0
 array = []
 while True:
